@@ -42,7 +42,14 @@ document.getElementById("demo").innerHTML = ms;
 
 ## 학습 출처
 **유튜브**    
+https://www.youtube.com/@JavaScriptKing  
+
 **CSS**  
 https://www.tcpschool.com/html-tag-attrs/button-disabled   
+
 **JS**  
+https://www.w3schools.com/jsref/jsref_now.asp  
+
 **키워드**  
+- button 태그의 disabled 속성  
+- Date.now() 
